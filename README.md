@@ -21,3 +21,12 @@ Maybe eventually expand so that people can have different groups and sign in for
 
 Platform:
 Mobile
+
+
+Helpful links:
+https://docs.djangoproject.com/en/2.0/
+http://flask.pocoo.org/
+https://www.lynda.com/Django-tutorials/Learning-Django-Q1-2018-REVISION/656811-2.html
+https://www.lynda.com/Django-tutorials/Django-1-Building-Blog/594453-2.html
+https://www.lynda.com/Python-tutorials/Python-Essential-Training/614299-2.html
+
